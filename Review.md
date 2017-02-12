@@ -22,7 +22,8 @@ Key of a song in G Major = F#
 - How to figure out what notes are in a key and state key signature
 - Know that every major key has a related minor key
 - Know the order of sharps and flats as they appear in key signatures  
-###Example
+
+### Example
 Eb Major Scale: Eb F G Ab Bb C D Eb  
 Key Signature: Eb Ab Bb  
 
@@ -45,6 +46,7 @@ Key Signature: Eb Ab Bb
 
 ##Relatives
 All Major/Minor scales have a relative Minor/Major associated with the respected scale
+
 ### Examples
 - C Major - A Minor
 - G Major - E Minor
