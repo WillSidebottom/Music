@@ -33,7 +33,7 @@ Formula:
 4-5 = W
 5-6 = W
 6-7 = W
-8-8 = h
+7-8 = h
 
 Major Scale Formula -    W  W  h  W  W  W  h
 G Major Scale     	- G: A  B  C  D  E  F# G

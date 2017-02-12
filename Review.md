@@ -56,7 +56,33 @@ All Major/Minor scales have a relative Minor/Major associated with the respected
 
 ##Tonal Center
 **Tonal Center**: Home base note.  
-C Major and A Minor are essentially the same scale (set of notes)  
-However, A minor prioritizes A as the Tonal Center, where C Major prioritizes C as the Tonal Center  
-These two scales have the same key signature and are therefore, relatives  
-The relative minor of a major, say C Major, is the sixth note, in this case A  
+- C Major and A Minor are essentially the same scale (set of notes)  
+- However, A minor prioritizes A as the Tonal Center, where C Major prioritizes C as the Tonal Center  
+- These two scales have the same key signature and are therefore, relatives  
+- The relative minor of a major, say C Major, is the sixth note, in this case A  
+
+##Minor Scale
+**Formula**:
+1-2 W  
+2-3 h  
+3-4 W  
+4-5 W  
+5-6 h  
+6-7 W  
+7-8 W  
+
+| **Minor Scale Formula**     | W  h  W  W  h  W  W |
+| --------|--------- |
+| **G Minor Scale** | G  A  Bb C  D  Eb F  G |  
+| **A Minor Scale** | A  B  C  D  E  F  G  A |  
+
+##Intervals
+**In a Major Scale**:  
+1-1 = unison  
+1-2 = major 2nd  
+1-3 = major 3rd  
+1-4 = perfect 4th  
+1-5 = perfect 5th  
+1-6 = major 6th  
+1-7 = major 7th  
+1-8 = octave  
