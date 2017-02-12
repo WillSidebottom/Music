@@ -89,7 +89,7 @@ All Major/Minor scales have a relative Minor/Major associated with the respected
 
 ### Example
 What is a major 3rd up from D?  
-  
+
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 3 |  
 | --------|---------|--------- |---------|--------- |---------|---------|--------- |  
 | D | E | F# | G | A | B | C# | F # |   
@@ -99,7 +99,6 @@ What is a major 3rd up from D?
 - flatten Maj 3 => Min 3
 - Sharpen Maj 2 => Aug 2
 - Sharpen Maj 3 => Aug 3
-  
 - flatten perfect 4th => diminished 4th
 - flatten perfect 5th => diminished 5th
 - sharpen perfect 4th => augmented 4th
