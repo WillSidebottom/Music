@@ -1,0 +1,166 @@
+Intro to chords
+
+Chord -  3 or more unique notes played simultaneously
+Triad - Chords with 3 notes stacked in thirds
+Example C Major Triad = C E G
+	C -> E = Major Third
+	E -> G = Minor Third
+	
+	G = 5
+	E = 3
+	C = 1
+
+Major Triad:
+- has major 3rd (C -> E)
+- has perfect 5th (C -> G)
+
+Minor Triad
+- has minor 3rd (C -> Eb)
+- has perfect 5th (C -> G)
+
+Augmented Triad
+- has a major 3rd (C -> E)
+- has a augmented 5th (C -> G#)
+
+Diminished Triad
+- has a minor 3rd (C -> Eb)
+- has a diminished 5th (C -> Gb)
+
+What kind of Triad is D F A
+- minor 3rd
+- perfect 5th 
+- Minor Triad
+
+What kind of Triad is G B D#
+- B is major 3rd
+- D # is augmented 5th
+G Augmented Triad
+
+Find the triads in the key of C
+C D E F G A B C
+C - C E G - Major
+D - D F A - Minor
+E - E G B - Minor 
+F - F A C - Major 3rd / perfect 5th - Major
+G - G B D - Major 3rd / perfect 5th - Major
+A - A C E - Minor 3rd / perfect 5th - Minor
+B - B D F - Minor 3rd / diminished 5th - Dim
+
+Find the tirads in the key of D
+D E F# G A B C# D
+D - D F# A - Major 3rd / perfect 5th - Major
+E - E G B - Minor 3rd / perfect 5th - Minor
+F# - F# A C - Minor 3rd / perfect 5th - Minor
+G - G B D - Major 3rd / perfect 5th - Major
+A - A C# E - Major 3rd / perfedt 5th - Major
+B - B D F# - Minor 3rd / perfect 5th - Minor
+C# - C# E G - Minor 3rd / diminshed 5th - Diminished
+
+[ four note chords - adding a 7th ]
+C E G B - ( Major triad + Major 7) C Major 7
+C E G Bb - (Major triad + Minor 7) C7 or C dominant 7
+C Eb G Bb - (Minor triad + Minor 7) C Minor 7
+C Eb Gb Bb - (Diminished triad + Minor 7) C Minor 7 b5 (half diminished)
+C Eb Gb Bbb - C Diminished 7 or fully diminished (7 is double flatted or diminished)
+
+[ What type of chord is this]
+C E G B
+- C E G (major triad)
+- B = major 7th
+- Cmaj7
+
+D F A C
+- D F A = min triad
+- C = minor 7th
+- Dmin7
+
+E G B D
+- E G B = min triad
+- D = minor 7th
+- Emin7
+
+F A C E
+- F A C = maj triad
+- E = maj 7th
+- Fmaj7
+
+G B D F
+- Maj triad
+- Min 7th
+- G7
+
+A C E G
+- Min triad
+- Min 7th
+- A min 7
+
+B D F A
+- Diminished triad
+- Min 7
+- B min 7 b5
+
+[ Modifications - Suspensions, 6th chords, tensions, altered tensions]
+C Major Triad
+1 3 5
+C E G
+
+Suspending - lower the thrid to maj 2nd or raise third to perfect 4th
+1 3 5 => 1 4 5 or 1 2 5
+Example 
+CSus4 = suspended third to perfect 4th
+CSus2 = suspended third to major 2nd
+
+Same thing can be applied to minor chords
+
+G triad G B D 
+(G A B C D E F# G)
+So,
+GSus4 is G C D
+GSus2 is G A D
+
+D minor into DSus4
+D E F# G A B C# D
+D minor triad = D F A
+DSus4 = D G A
+
+Amaj => ASus2
+A B C# D E F# G# A
+A C# E => A B E
+
+[ Sixth Chords - Replace the perfect 5th with major 6 or minor 6 ]
+1 3 6 - Major6
+1 b3 6 - Minor6
+
+Example
+Major  1 3 5
+	   C E G
+C6 : C E G => C E A
+Cmin6 : C E G => C Eb A
+
+Turn B into B6
+B D# F# => B D# G#
+
+Turn Dmin into Dmin6
+D F# A => D F A => D F B
+
+[ Adding Tensions - adding other notes (2 4 6) from scale to chord - Extensions ]
+1     2  3    4   5   6  7
+root  9  3rd  11  5th 13 7th
+
+Cmaj7 = C E G B
+Cmaj7(9) = Cmaj7 + 2 = C E G B D
+( Not to be confused with tensions where we replace the 2 - We Are Adding It!)
+Cmaj7(11) = Cmaj7 + 4 = C E G B F
+
+What notes are in a Gmaj7(9) chord
+G A B C D E F# G
+G B D F# A
+
+What are the notes in Fmin7(11) chord
+F G A Bb C D E F
+F Ab C Eb Bb
+
+[ Altering Tensions : Sharpen + Flatten Tensions]
+D7(9) = D F# A C B
+So, D7(#9) (D7 sharp 9) = D F# A C B#
+D7(b13) = D F# A C Bb

@@ -1,0 +1,165 @@
+Music Theory Notes:
+
+[ These are the notes ]
+(A) (A#/Bb) (B) (C) (C#/Db) (D) (D#/Eb) (E) (F) (F#/Gb) (G) (G#/Ab)
+- Tip : B->C and E->F have direct paths (no sharps or flats)
+
+[ These would be the black keys on the piano ]
+# : sharp
+b : flat
+
+[ Steps + Intervals ]
+half-step : Moving from one note to the very next note in the key is a half step. Move one fret on the guitar
+whole-step : Skipping a note, moving two notes is a whole step. Move two frets on the guitar
+interval : The distance between two notes
+
+[ Sharping and Flatting]
+Sharping : moving up one half step on a note
+Flatting : moving down one half step
+
+[ Key Signature ]
+Key Signature - Notes you choose to include in your music
+Scale - Inclusion of these notes in an ascending or descending order
+
+[ Scales]
+A Minor Scale - exclude all of the sharp and flat notes - A  B C  D  E F  G
+One Octave - Playing the scale where original note is final note : A  B C  D  E F  G  A
+C Major scale : C D E F G A B C
+
+Formula:
+1-2 = W
+2-3 = W
+3-4 = h
+4-5 = W
+5-6 = W
+6-7 = W
+8-8 = h
+
+Major Scale Formula -    W  W  h  W  W  W  h
+G Major Scale     	- G: A  B  C  D  E  F# G
+A Major Scale		- A: B  C# D  E  F# G# A
+D Major Scale       - D: E  F# G  A  B  C# D
+
+[ Signatures and Keys ]
+If a Song or a section of music only uses the major scale, then you are only playing in that major scale's key
+Key Signature - Sharps or Flats in the Key - Defines the set of notes in a key
+Scale - The order of the set played
+Key of Song in G Major
+Key Signature of G Major = F#
+
+[ What you should know of keys ]
+- How to figure out what notes are in a key and state key signature
+- Know that every major key has a related minor key
+- Know the order of sharps and flats as they appear in key signatures
+Flatting : moving down one half step
+
+[ Key Signature ]
+Key Signature - Notes you choose to include in your music
+Scale - Inclusion of these notes in an ascending or descending order
+
+[ Scales]
+A Minor Scale - exclude all of the sharp and flat notes - A  B C  D  E F  G
+One Octave - Playing the scale where original note is final note : A  B C  D  E F  G  A
+C Major scale : C D E F G A B C
+
+Major Scale Formula:
+1-2 = W
+2-3 = W
+3-4 = h
+4-5 = W
+5-6 = W
+6-7 = W
+8-8 = h
+
+Major Scale Formula -    W  W  h  W  W  W  h
+G Major Scale     	- G: A  B  C  D  E  F# G
+A Major Scale		- A: B  C# D  E  F# G# A
+D Major Scale       - D: E  F# G  A  B  C# D 
+C Major Scale       - C: D  E  F  G nA  B  C
+
+[ Signatures and Keys ]
+If a Song or a section of music only uses the major scale, then you are only playing in that major scale's key
+Key Signature - Sharps or Flats in the Key - Defines the set of notes in a key
+Scale - The order of the set played
+Key of Song in G Major
+Key Signature of G Major = F#
+
+[ What you should know of keys ]
+Eb Major Scale: Eb F G Ab Bb C D Eb
+Key Signature: Eb Ab Bb
+
+Bb Major Scale: Bb C D Eb F G A Bb
+Key SignatureL Bb Eb
+
+[ Relatives ]
+C Major - A Minor
+G Major - E Minor
+D Major - B Minor
+A Major - F# Minor
+E Major - C# Minor
+
+Home Base Note = Tonal Center
+
+C Major and A Minor are essentially the same scale (set of notes)
+However, A minor prioritizes A as the Tonal Center, where C Major prioritizes C as the Tonal Center
+These two scales have the same key signature and are therefor, relatives
+The relative minor of a major, say C Major, is the sixth note, in this case A
+
+Minor Scale Formula:
+1-2 W
+2-3 h
+3-4 W
+4-5 W
+5-6 h
+6-7 W 
+7-8 W
+
+What is the Key Signature for F Major
+F Major Scale            : F G A Bb C D E F
+Key Signature : Bb
+Relative Minor (D Minor) : D E F G A Bb C D 
+
+[ Intervals ]
+interval - the distance between 2 notes
+In a scale :
+1-1 = unison
+1-2 = major 2nd
+1-3 = major 3rd
+1-4 = perfect 4th
+1-5 = perfect 5th
+1-6 = major 6th
+1-7 = major 7th
+1-8 = octave
+
+What is a major 3rd up from D?
+D E F# G A B C# : F #
+
+[ Sharpen or Flatten Intervals ]
+flatten Maj 2 => Min 2
+flatten Maj 3 => Min 3
+
+Sharpen Maj 2 => Aug 2
+Sharpen Maj 3 => Aug 3
+
+(perfect intervals)
+flatten perfect 4th => diminished 4th
+flatten perfect 5th => diminished 5th
+sharpen perfect 4th => augmented 4th
+sharpen perfect 5th => augmented 5th
+
+Ex: 
+C -> D = Major 2nd
+C -> Db = Minor 2nd
+C -> D# = Augmented 2nd
+
+What is the interval G -> Eb?
+Minor 6th
+
+What is the interval B -> F?
+B -> F = perfect fifth. 
+In B Major Scale, perfect 5th is F#
+So interval from B -> F is diminished 5h
+
+What is the interval Ab -> G
+Interval Ab -> G = 1-7th
+In the Ab scale, G is a major 7th
