@@ -77,7 +77,7 @@ All Major/Minor scales have a relative Minor/Major associated with the respected
 | **A Minor Scale** | A  B  C  D  E  F  G  A |  
 
 ##Intervals
-**In a Major Scale**:  
+**Intervals between notes in a scale**:  
 1-1 = unison  
 1-2 = major 2nd  
 1-3 = major 3rd  
@@ -89,14 +89,14 @@ All Major/Minor scales have a relative Minor/Major associated with the respected
 
 ### Example
 What is a major 3rd up from D?  
-1 2 3  4 5 6 7  
-D E F# G A B C# : F #  
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 3|  
+| D | E | F# | G | A | B | C# | F # | 
 
 ##Flatten or Sharpen Intervals
-- flatten Maj 2 => Min 2  
-- flatten Maj 3 => Min 3  
-- Sharpen Maj 2 => Aug 2  
-- Sharpen Maj 3 => Aug 3  
+- flatten Maj 2 => Min 2
+- flatten Maj 3 => Min 3
+- Sharpen Maj 2 => Aug 2
+- Sharpen Maj 3 => Aug 3
   
 - flatten perfect 4th => diminished 4th
 - flatten perfect 5th => diminished 5th
