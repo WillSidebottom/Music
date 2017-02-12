@@ -89,8 +89,9 @@ All Major/Minor scales have a relative Minor/Major associated with the respected
 
 ### Example
 What is a major 3rd up from D?  
+  
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 3 |  
-| - | - | - | - | - | - | - | - |  
+| --------|---------|--------- |---------|--------- |---------|---------|--------- |  
 | D | E | F# | G | A | B | C# | F # |   
 
 ##Flatten or Sharpen Intervals
