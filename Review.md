@@ -22,6 +22,9 @@ Key of a song in G Major = F#
 - How to figure out what notes are in a key and state key signature
 - Know that every major key has a related minor key
 - Know the order of sharps and flats as they appear in key signatures
+###Example
+Eb Major Scale: Eb F G Ab Bb C D Eb  
+Key Signature: Eb Ab Bb  
 
 ##Major Scale
 **Formula**:  
@@ -38,4 +41,20 @@ Key of a song in G Major = F#
 | **G Major Scale** | A  B  C  D  E  F# G |  
 | **A Major Scale** | B  C# D  E  F# G# A |  
 | **D Major Scale** | E  F# G  A  B  C# D |  
-| **C Major Scale** | D  E  F  G nA  B  C |  
+| **C Major Scale** | D  E  F  G  A  B  C |  
+
+##Relatives
+All Major/Minor scales have a relative Minor/Major associated with the respected scale
+## Examples
+- C Major - A Minor
+- G Major - E Minor
+- D Major - B Minor
+- A Major - F# Minor
+- E Major - C# Minor
+
+##Tonal Center
+**Tonal Center**: Home base note
+C Major and A Minor are essentially the same scale (set of notes)  
+However, A minor prioritizes A as the Tonal Center, where C Major prioritizes C as the Tonal Center  
+These two scales have the same key signature and are therefore, relatives  
+The relative minor of a major, say C Major, is the sixth note, in this case A  
