@@ -139,3 +139,33 @@ What is a major 3rd up from D?
 - has a minor 3rd (C -> Eb)
 - has a diminished 5th (C -> Gb)
 
+##Four Note Chords
+**Four Note Chords**: A triad combined with a 7th note in the scale.  
+- C E G B ( Major triad + Major 7) Cmaj7
+- C E G Bb (Major triad + Minor 7) C7 or Cdom7
+- C Eb G Bb (Minor triad + Minor 7) Cmin7
+- C Eb Gb Bb (Diminished triad + Minor 7) Cmin7 b5 (half diminished)
+- C Eb Gb Bbb (Diminished triad + double flatted or diminished 7) CDim7 or fully diminished 
+
+##Suspensions
+**Suspending**: lower the thrid to major 2nd or raise the third to perfect 4th  
+- 1 3 5 => 1 2 5 or 1 4 5
+- CSus2 = suspended third to major 2nd
+- CSus4 = suspended third to perfect 4th
+
+##Sixth Chords
+**Sixth Chords**: Replace the perfect 5th in the triad with a major 6th. Can be Maj/Min depending on the 3rd.  
+- C6 : C E G => C E A
+- Cmin6 : C E G => C Eb A
+
+##Tensions
+**Tension**: Adding the 2nd(9), 4th(11), or 6th(13) note in the scale to the chord.  
+- Cmaj7 = C E G B
+- Cmaj7(9) = Cmaj7 + 2 = C E G B D
+- ( Not to be confused with suspensions where we replace the 3rd with the 2nd - We Are Adding!)
+- Cmaj7(11) = Cmaj7 + 4 = C E G B F
+
+###Altering Tensions (Sharpen or Flatten the Tension)
+- D7(9) = D F# A C B
+- So, D7(#9) (D7 sharp 9) = D F# A C B#
+- D7(b13) = D F# A C Bb
