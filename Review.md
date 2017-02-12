@@ -95,10 +95,10 @@ What is a major 3rd up from D?
 | D | E | F# | G | A | B | C# | F # |   
 
 ##Flatten or Sharpen Intervals
-- flatten Maj 2 => Min 2
-- flatten Maj 3 => Min 3
-- Sharpen Maj 2 => Aug 2
-- Sharpen Maj 3 => Aug 3
+- flatten maj 2 => min 2
+- flatten maj 3 => min 3
+- sharpen maj 2 => aug 2
+- sharpen maj 3 => aug 3
 - flatten perfect 4th => diminished 4th
 - flatten perfect 5th => diminished 5th
 - sharpen perfect 4th => augmented 4th
@@ -108,3 +108,34 @@ What is a major 3rd up from D?
 - C -> D = Major 2nd
 - C -> Db = Minor 2nd
 - C -> D# = Augmented 2nd
+
+##Chords
+**Chord**: Three or more unique notes played in unison.  
+**Triad**: Chords with three notes stacked in thirds    
+
+##Major Triad
+**Major Triad**: A triad composed of the root, the major 3rd, and the perfect 5th
+- C Major Triad = C E G (1-3-5)  
+- C -> E = Major 3rd  
+- E -> G = Minor 3rd 
+- has major 3rd (C -> E)
+- has perfect 5th (C -> G)
+
+##Minor Triad
+**Minor Triad**: A triad composed of the root, the minor 3rd, and the perfect 5th  
+- C Minor Triad = C Eb G
+- has minor 3rd (C -> Eb)
+- has perfect 5th (C -> G)
+
+##Augmented Triad
+**Augmented Triad**: A triad composed of the root, the major 3rd, and the augmented 5th
+- C Augmented Triad = C E G#
+- has a major 3rd (C -> E)
+- has a augmented 5th (C -> G#)
+
+##Diminished Triad
+**Diminished Triad**: A triad composed of the root, the minor 3rd, and the diminished 5th
+- C Diminished Triad = C Eb Gb
+- has a minor 3rd (C -> Eb)
+- has a diminished 5th (C -> Gb)
+
