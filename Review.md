@@ -32,6 +32,6 @@ Tip : B->C and E->F have direct paths (no sharps or flats)
 
 
 | **Major Scale Formula**     | W  W  h  W  W  W  h    |
-| --------|---------|-------|
-| **G Major Scale**  | G: A  B  C  D  E  F# G  |  
-| **A Major Scale** | A: B  C# D  E  F# G# A |  
+| --------|--------- |
+| **G Major Scale** | A  B  C  D  E  F# G |  
+| **A Major Scale** | B  C# D  E  F# G# A |  
