@@ -62,7 +62,7 @@ All Major/Minor scales have a relative Minor/Major associated with the respected
 - The relative minor of a major, say C Major, is the sixth note, in this case A  
 
 ##Minor Scale
-**Formula**:
+**Formula**:  
 1-2 W  
 2-3 h  
 3-4 W  
@@ -86,3 +86,24 @@ All Major/Minor scales have a relative Minor/Major associated with the respected
 1-6 = major 6th  
 1-7 = major 7th  
 1-8 = octave  
+
+### Example
+What is a major 3rd up from D?  
+1 2 3  4 5 6 7  
+D E F# G A B C# : F #  
+
+##Flatten or Sharpen Intervals
+- flatten Maj 2 => Min 2  
+- flatten Maj 3 => Min 3  
+- Sharpen Maj 2 => Aug 2  
+- Sharpen Maj 3 => Aug 3  
+  
+- flatten perfect 4th => diminished 4th
+- flatten perfect 5th => diminished 5th
+- sharpen perfect 4th => augmented 4th
+- sharpen perfect 5th => augmented 5th
+  
+###Example
+- C -> D = Major 2nd
+- C -> Db = Minor 2nd
+- C -> D# = Augmented 2nd
